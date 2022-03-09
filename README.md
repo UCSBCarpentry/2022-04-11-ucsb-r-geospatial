@@ -2,7 +2,7 @@
 
 # The Carpentries Workshop Template
 
-This repository is for UCSB Carpentry R Geospatial (April 7, 2022), using The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
+This repository is for UCSB Carpentry R Geospatial (April 11, 2022), using The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops. Steps that have been completed are striked through.
 
 1. **Please _do not fork this repository directly on GitHub._** Instead, please use GitHub's
