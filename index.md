@@ -17,7 +17,7 @@ instructor: ["Jon Jablonski"] # boxed, comma-separated list of instructors' name
 helper: ["Echelle Burns, Anita Carraher"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["library-collaboratory@ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-04-11-ucsb-r-geospatial  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:    # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:  294940534077  # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -84,7 +84,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-<h3>Registration for this workshop opens on March 14, 2022 at 8:00 am. Please check back closer to the registration period for more details.</h3>
+<h3>Registration for this workshop opens on March 18, 2022 at 8:00 am. Please check back closer to the registration period for more details.</h3>
 
 {% comment %}
 INTRODUCTION
