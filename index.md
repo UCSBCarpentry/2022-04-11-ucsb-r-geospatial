@@ -84,8 +84,6 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-<h3>Registration for this workshop opens on March 18, 2022 at 8:00 am. Please check back closer to the registration period for more details.</h3>
-
 {% comment %}
 INTRODUCTION
 
