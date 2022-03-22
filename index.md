@@ -328,8 +328,8 @@ in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
 change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
-<p><a href="https://ucsb.co1.qualtrics.com/jfe/form/SV_cJ8Xzh3Gq4JJdzg" target="_blank" rel="noopener noreferrer">Pre-workshop Survey</a></p>
-<p><a href="https://ucsb.co1.qualtrics.com/jfe/form/SV_ePzJ45VN9lwohv0" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></p>
+<p><a href="https://ucsb.co1.qualtrics.com/jfe/form/SV_1ZFuIYQhNYUNffg" target="_blank" rel="noopener noreferrer">Pre-workshop Survey</a></p>
+<p><a href="https://ucsb.co1.qualtrics.com/jfe/form/SV_7VCOGjsTOsKAMxE" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
