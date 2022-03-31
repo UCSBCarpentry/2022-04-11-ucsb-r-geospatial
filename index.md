@@ -163,8 +163,10 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
-  {{page.humandate}}.
+  {{page.humandate}}.   
   {% include workshop_calendar.html %}
+
+  For both days, food and drink will be provided.
 </p>
 {% endif %}
 
@@ -244,7 +246,7 @@ Display the contact email address set in the configuration file.
 <p id="roles">
   <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
-  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
+  refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.    
 </p>
 
 {% comment %}
@@ -269,6 +271,8 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 
 <hr/>
+
+{% include people.html %}
 
 {% comment%}
 CODE OF CONDUCT
