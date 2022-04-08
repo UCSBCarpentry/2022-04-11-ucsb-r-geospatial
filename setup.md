@@ -12,7 +12,7 @@ The Install Test is meant to help check if you have all the required R packages.
 2. RESTART RStudio. 
 3. Doubleclick on InstallTest.r
 4. If your computer is properly configured, you should be able to execute the script from top to bottom without errors. After the script runs, you should have five objects in your environment and a map in your plots pane. The map will take a few seconds to draw.
-5. If you don't know how to run the script, you should spend time reviewing R before attending this workshop. **The folder 'InstallTest.R' does NOT contain the data we will be using during the workshop**. 
+5. If you don't know how to run the script, you should spend time reviewing R before attending this workshop. **The folder 'InstallTest' does NOT contain the data we will be using during the workshop**. 
 
 
 ## Data
