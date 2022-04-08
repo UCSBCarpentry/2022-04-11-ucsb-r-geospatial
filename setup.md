@@ -2,7 +2,18 @@
 
 This workshop is designed to be run on your local machine. First, you will need to download the data we use in the workshop. Then, you need to set up your machine to analyze and process geospatial data. We provide instructions below to either install all components manually. <strong>If applicable:  before you install the software, <strong>please log out of any external drives (e.g. google drive, onedrive, dropbox, etc.) on your device.</strong>
 
-After you have finished installing the data and software: To check that you have everything configured correctly, and that you are prepared for the workshop, please download this [zip archive](https://drive.google.com/file/d/19y6-R_mob8Nij-ItWW5Iaf7ulvqFVP_w/view?usp=sharing). Extract the files to your local computer. RESTART RStudio. Doubleclick on InstallTest.r
+## Install Test
+
+After you have finished installing the data and software: To check that you have everything configured correctly, and that you are prepared for the workshop, 
+please download this [zip archive](https://drive.google.com/file/d/19y6-R_mob8Nij-ItWW5Iaf7ulvqFVP_w/view?usp=sharing). 
+The Install Test is meant to help check if you have all the required R packages. 
+
+1. Extract the files to your local computer 
+2. RESTART RStudio. 
+3. Doubleclick on InstallTest.r
+4. If your computer is properly configured, you should be able to execute the script from top to bottom without errors. After the script runs, you should have five objects in your environment and a map in your plots pane. The map will take a few seconds to draw.
+5. If you don't know how to run the script, you should spend time reviewing R before attending this workshop. **The folder 'InstallTest.R' does NOT contain the data we will be using during the workshop**. 
+
 
 ## Data
 
