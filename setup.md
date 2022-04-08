@@ -17,7 +17,7 @@ The Install Test is meant to help check if you have all the required R packages.
 
 ## Data
 
-You can download all of the data used in this workshop by clicking
+You can download the data we will use during the workshop by clicking
 [this download link](https://ndownloader.figshare.com/articles/2009586/versions/10). The file is 218.2 MB.
 
 Clicking the download link will automatically download all of the files to your default download directory as a single compressed
